@@ -33,7 +33,7 @@ Kanji has two different readings
 
 depends if the kanji is by itself or compound
 
-- itself > *kujomi*
+- itself > *kun* reading
 - compound > *on* reading
 
 (rule of thumb)
