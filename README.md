@@ -42,13 +42,13 @@ depends if the kanji is by itself or compound
 
 # Lesson 3 - Grammar
 
-## Subject, Object, Verg
+## Subject, Object, Verb
 
-- English is a SVO language (subject verb object)
+- English is a SVO language (subject, verb, object)
 
 `I eat fruit`
 
-- **Japanese is SOV language**
+- **Japanese is SOV language** (subject, object, verb)
 
 `I fruit eat`
 
