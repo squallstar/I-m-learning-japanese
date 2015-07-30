@@ -1,6 +1,10 @@
+I'm following [JapanesePod101](https://itunes.apple.com/us/podcast/learn-japanese-japanesepod101.com/id109573938?mt=2) podcast to help with me with studying Japanese.
+
+Here below you will find my notes, organised per lesson.
+
 # Lesson 1
 
-TBD
+I skipped it. Might add it later.
 
 # Lesson 2 - Characters
 
