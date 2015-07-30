@@ -160,3 +160,37 @@ You should start using it when the sky gets dark.
 ---
 
 ## Lesson 2 - Introducing yourself
+
+### Example conversation:
+
+Nicholas: `hajimemashite, nikorasu desu`
+
+はじめまして、ニコラス　です
+
+**nice to meet you, I'm Nicholas**
+
+---
+
+Kaori: `hajimemashite, kaori desu`
+
+はじめまして、かおり　です
+
+**nice to meet you too, I'm Kaori**
+
+---
+
+Nicholas: `yoroshiku onegaishimasu`
+
+よろしく　おねがいします
+
+**it's a pleasure to meet you**
+
+*We can't really translate it into english, literally: **I ask for your good favour***
+
+---
+
+Kaori: `yoroshiku onegaishimasu`
+
+**it's a pleasure to meet you too**
+
+---
