@@ -185,7 +185,7 @@ Nicholas: `yoroshiku onegaishimasu`
 
 **it's a pleasure to meet you**
 
-*We can't really translate it into english, literally: **I ask for your good favour***
+We can't really translate it into english, literally: *I ask for your good favour*
 
 ---
 
