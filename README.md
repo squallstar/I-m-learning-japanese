@@ -2,11 +2,7 @@ I'm following [JapanesePod101](https://itunes.apple.com/us/podcast/learn-japanes
 
 Here below you will find my notes, organised per lesson.
 
-# Lesson 1
-
-I skipped it. Might add it later.
-
-# Lesson 2 - Characters
+# Writing system
 
 ## Characters
 
@@ -44,7 +40,7 @@ depends if the kanji is by itself or compound
 
 ---
 
-# Lesson 3 - Grammar
+# Grammar
 
 ## Subject, Object, Verb
 
@@ -123,6 +119,44 @@ The key to sound natural is leaving out things that are already understood from 
 
 ---
 
-# Lesson 4
+# Introduction
 
-Soon
+## Lesson 1 - Say Hello
+
+`Konnichiwa`
+
+こんにちわ
+
+**Hello**
+
+You can use it anytime, basic standard greeting.
+
+---
+
+`Ohayou gozaimasu`
+
+おはようございます
+
+**Good morning** (formal)
+
+---
+
+`Ohayou`
+
+おはよう
+
+**Morning** (informal)
+
+---
+
+`Konbanwa`
+
+こんばんわ
+
+**Good evening**
+
+You should start using it when the sky gets dark.
+
+---
+
+## Lesson 2 - Introducing yourself
