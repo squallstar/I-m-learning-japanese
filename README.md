@@ -67,7 +67,7 @@ In japanese there are **two tenses**:
 
 Japanese use the same tense for **present** and **future**
 
-`watashi wa su-pa- ni ikimasu` 
+`watashi wa suupaa ni ikimasu` 
 
 私は　スーパー　に　行きます。
 
@@ -79,7 +79,7 @@ To make clear that is in the future, you can use something like **ashita** 明�
 
 ## Conjugation
 
-- true for roman languages and english
+True for **roman languages** and **english**
 
 `I go, he goes`
 
@@ -89,9 +89,9 @@ e.g.
 
 (`ikimasu` 行きます verb) - to go
 
-`watashi wa supaani ikimasu` - i go to the supermarket
+`watashi wa suupaa ni ikimasu` - I go to the supermarket
 
-`peeta wa supaani ikimasu` - peeter goes to the supermarket
+`peeta wa suupaa ni ikimasu` - Peter goes to the supermarket
 
 Grammar is a lot easier for sure
 
@@ -118,3 +118,7 @@ Japanese is a really concise language
 The key to sound natural is leaving out things that are already understood from the context. **Don't repeat yourself**.
 
 ---
+
+# Lesson 4
+
+Soon
