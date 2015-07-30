@@ -191,7 +191,7 @@ Kaori: `yoroshiku onegaishimasu`
 
 ## Lesson 3 - Show your appreciation
 
-It is custom to bring a souvenir from your home country or when visiting another country. Usually the best kind of omiage is something **edible**.
+It is custom to bring a souvenir from your home country or when visiting another country. Usually the best kind of `omiage` (souvenir) is something **edible**, like a box of small gifts.
 
 ### Example conversation:
 
