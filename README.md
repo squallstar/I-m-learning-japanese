@@ -188,3 +188,37 @@ We can't really translate it into english, literally: *I ask for your good favou
 Kaori: `yoroshiku onegaishimasu`
 
 ---
+
+## Lesson 3 - Show your appreciation
+
+It is custom to bring a souvenir from your home country or when visiting another country. Usually the best kind of omiage is something **edible**.
+
+### Example conversation:
+
+`omiage desu`
+
+おみやげです
+
+**this is a small gift for you**
+
+(omiage: souvenir)
+
+---
+
+`arigatou gozaimasu`
+
+ありがとうございます
+
+**thank you**
+
+(use `gozaimasu` to be **formal**)
+
+---
+
+`douitashimashite`
+
+どういたしまして
+
+**you're welcome**
+
+---
