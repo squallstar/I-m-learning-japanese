@@ -173,10 +173,6 @@ Nicholas: `hajimemashite, nikorasu desu`
 
 Kaori: `hajimemashite, kaori desu`
 
-はじめまして、かおり　です
-
-**nice to meet you too, I'm Kaori**
-
 ---
 
 Nicholas: `yoroshiku onegaishimasu`
@@ -190,7 +186,5 @@ We can't really translate it into english, literally: *I ask for your good favou
 ---
 
 Kaori: `yoroshiku onegaishimasu`
-
-**it's a pleasure to meet you too**
 
 ---
