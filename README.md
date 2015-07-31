@@ -243,7 +243,7 @@ A: `ano... sumimasen`
 
 あの…すみません。
 
-**excuse me**
+**ehm... excuse me**
 
 - `ano` (to get the attention)
 - `sumimasen` (excuse me, to get the attention)
@@ -266,13 +266,15 @@ A: `ashi...`
 
 あし…。
 
+**my foot...**
+
 ---
 
 `a, sumimasen`
 
 あ、すみません！
 
-oh, I'm sorry!
+**oh, I'm sorry!**
 
 - this time `sumimasen` means **sorry**
 
