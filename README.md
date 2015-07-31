@@ -163,7 +163,7 @@ You should start using it when the sky gets dark.
 
 ### Example conversation:
 
-Nicholas: `hajimemashite, nikorasu desu`
+A: `hajimemashite, nikorasu desu`
 
 はじめまして、ニコラス　です
 
@@ -171,11 +171,11 @@ Nicholas: `hajimemashite, nikorasu desu`
 
 ---
 
-Kaori: `hajimemashite, kaori desu`
+B: `hajimemashite, kaori desu`
 
 ---
 
-Nicholas: `yoroshiku onegaishimasu`
+A: `yoroshiku onegaishimasu`
 
 よろしく　おねがいします
 
@@ -185,7 +185,7 @@ We can't really translate it into english, literally: *I ask for your good favou
 
 ---
 
-Kaori: `yoroshiku onegaishimasu`
+B: `yoroshiku onegaishimasu`
 
 ---
 
@@ -195,7 +195,7 @@ It is custom to bring a souvenir from your home country or when visiting another
 
 ### Example conversation:
 
-`omiage desu`
+A: `omiage desu`
 
 おみやげです
 
@@ -205,7 +205,7 @@ It is custom to bring a souvenir from your home country or when visiting another
 
 ---
 
-`arigatou gozaimasu`
+B: `arigatou gozaimasu`
 
 ありがとうございます
 
@@ -215,10 +215,65 @@ It is custom to bring a souvenir from your home country or when visiting another
 
 ---
 
-`douitashimashite`
+A: `douitashimashite`
 
 どういたしまして
 
 **you're welcome**
+
+---
+
+## Lesson 4 - Being sorry
+
+In Japan, you might need to say **sorry** very often. The same word mean both **sorry** and **excuse me**.
+
+### Example conversation:
+
+A: `itatatata`
+
+イタタタ
+
+**ouch!**
+
+also (`ita`, `itata`, `ite`)
+
+---
+
+A: `ano... sumimasen`
+
+あの…すみません。
+
+**excuse me**
+
+- `ano` (to get the attention)
+- `sumimasen` (excuse me, to get the attention)
+
+---
+
+B: `hai`?
+
+はい？
+
+**yes?**
+
+(used to tell that we are listening)
+
+- it's like: *I'm sorry? What is it?*
+
+---
+
+A: `ashi...`
+
+あし…。
+
+---
+
+`a, sumimasen`
+
+あ、すみません！
+
+oh, I'm sorry!
+
+- this time `sumimasen` means **sorry**
 
 ---
